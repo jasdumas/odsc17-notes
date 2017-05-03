@@ -28,6 +28,16 @@ Hynes Convention Center, Boston, MA
 - Analyzing Evictions During the Housing Crisis (1:30 PM in Room 313)
 - Selling Flowers with Analytics (2:15 PM in Room 310)
 - Modern Approaches to Finance (3:00 PM in Room 311)
+- Anomaly Detection in Wireless Networks using Mobile Phone Data (4:15 PM in Room 301)
+- Balancing Causal and Predictive Modeling at Wayfair (5:00 PM in Room 301)
 
 
 ## Friday
+
+- Geospatial Voronoi Analysis (9:00 AM in Room 310)
+- Behind the scenes of training, managing and deploying machine learning models (9:00 AM in Room 313)
+- Telling a Quantitative Story (9:45 AM in Room Ballroom A)
+- Recommendation systems at Zillow Group (11:00 AM in Room 310)
+- Making Decisions Under Uncertainty Using Bayesian Inference and Stan (11:45 AM in Room 309)
+
+### Open Government Data and Beer Analytics (12:30 PM in Room Ballroom A)
