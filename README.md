@@ -40,4 +40,10 @@ Hynes Convention Center, Boston, MA
 - Recommendation systems at Zillow Group (11:00 AM in Room 310)
 - Making Decisions Under Uncertainty Using Bayesian Inference and Stan (11:45 AM in Room 309)
 
-### Open Government Data and Beer Analytics (12:30 PM in Room Ballroom A)
+### Open Government Data and Beer Analytics (12:30 PM in Room Ballroom A) | [Slides](https://jasdumas.github.io/talks/odsc-boston/odsc-open-gov-beer.html#(1))
+
+- Intro to D3 (1:30 PM in Room 302)
+- Interpretability and the Future of Machine Learning (2:15 PM in Room Ballroom A)
+- Interactive Plotting with Matplotlib (3:00 PM in Room 311)
+- Rapid Prototyping Data Products using Shiny (4:15 PM in Room 310)
+- Applying Data Science Tools to Understand Web Traffic Data (5:00 PM in Room 310)
