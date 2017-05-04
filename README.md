@@ -59,12 +59,13 @@ prep, model development, collaboration, validation, deployment
   - Data journalism with emojis
   
   <details>
+  
  <summary>Emoji Data Science Pictures</summary>
 
-    <img src="brexit.jpg">
-    <img src="election.jpg">
-    <img src="emoji-word-cloud.jpg">
-    <img src="tswift-kanye.jpg">
+    <img src="https://github.com/jasdumas/odsc17-notes/blob/master/brexit.jpg">
+    <img src="https://github.com/jasdumas/odsc17-notes/blob/master/election.jpg">
+    <img src="https://github.com/jasdumas/odsc17-notes/blob/master/emoji-word-cloud.jpg">
+    <img src="https://github.com/jasdumas/odsc17-notes/blob/master/tswift-kanye.jpg">
 
 </details>
 
