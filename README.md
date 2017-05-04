@@ -19,11 +19,46 @@ Hynes Convention Center, Boston, MA
 ### Sessions I want to attend: 
 
 - Keynote Address (9:30 AM in Room 302,304,306)
-- Challenges and practical solutions in successful developing and delivery of data science applications (11:00 AM in Room 309)
-- Precision agriculture: Predicting outcomes for farmers using machine learning to help feed the world (11:45 AM in Room 301)
-- An introduction to emoji data science (12:30 PM in Room 310)
 
-**Break & Speaker interview with [George](george@odsc.com)** 
+### Challenges and practical solutions in successful developing and delivery of data science applications (11:00 AM in Room 309) | [R-Brain](https://r-brain.io/en/)
+
+- **Five steps in building a model for data analytics from**:
+prep, model development, collaboration, validation, deployment
+
+1. Model development:
+
+    1. **Challenges**: different tools and languages; integration; individual preferences; Security vs. Flexibility; resource allocation
+    2. **Solutions**: IDE's custom for DS; language kernels; server-based IDE's or Virtual machine (containers like Docker) but they are not built for sharing. Cloud platforms with combination with _containers_ can be a flexible option
+
+2. Collaboration & validation:
+
+    1. **Challenges**: Reproducibility; Communication between modelers and SME/business people (practicality vs business constraints); Hardware & Software
+    2. **Solutions**: Code development best practices (Git/GutHub) - problems arise with package versions and environment dependencies. Models as _containers_.
+
+3. Delivery / Deployment:
+
+    1. **Challenges**: User interface and interpretation; Scaling and resources; security and access
+    2. **Solutions**: Web app frameworks (shiny, bokeh); _Container technology_. cloud platform s can enable easy refinement of user access.
+
+- **What is container technology (Docker)?**: wrap a piece of Software in a complete filesystem. Have shared HW but different containers. Don't need local host anymore!
+
+- **Benefits of using cloud**: meet increasing storage demands, faster time-to-market, cost savings, improved disaster recovery plans.
+
+- **Migrating to cloud using containers**: development and environment tools :arrow_forward: building and maintaining images :arrow_forward: installation of system libraries in the containers :arrow_forward: container orchestration (devOps role) :arrow_forward: deployment.
+
+
+- _Precision agriculture: Predicting outcomes for farmers using machine learning to help feed the world (11:45 AM in Room 301)_
+
+### An introduction to emoji data science (12:30 PM in Room 310) | [Prismoji](https://prismoji.com/)
+
+- Introduction to emoji data science tutorial: https://prismoji.com/2017/02/06/emoji-data-science-in-r-tutorial/
+- Topics: 
+  - Storytelling with emojis
+  - Sentiment analysis on social media 
+  - Time series analysis based on emojis
+  - Data journalism with emojis
+
+**Break & Speaker interview with [George](george@odsc.com)** :heavy_check_mark:
 
 - Analyzing Evictions During the Housing Crisis (1:30 PM in Room 313)
 - Selling Flowers with Analytics (2:15 PM in Room 310)
