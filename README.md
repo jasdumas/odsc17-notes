@@ -66,7 +66,16 @@ prep, model development, collaboration, validation, deployment
 
 ### Analyzing Evictions During the Housing Crisis (1:30 PM in Room 313)
 
-- Selling Flowers with Analytics (2:15 PM in Room 310)
+- Quantitative approaches in Kansas City
+- **Data**: county court files, American community survey 5-year census data
+- **Tools**: Dataiku Data science studio, Geocode.io, censusreporter.org
+- **Data Cleaning**: Fuzzy matching ~ distance between strings to get spelling differences together
+- **Data transformation**: transform latitude and longitude into corresponding census blocks with the census track API
+- **Data viz**: D3.js but mostly leaflet for ease in making choropleth maps
+- **Modeling**: Correlation analysis (`pandas` .cor function) for selecting a few variables
+
+### Selling Flowers with Analytics (2:15 PM in Room 310)
+
 - Modern Approaches to Finance (3:00 PM in Room 311)
 - Anomaly Detection in Wireless Networks using Mobile Phone Data (4:15 PM in Room 301)
 - Balancing Causal and Predictive Modeling at Wayfair (5:00 PM in Room 301)
