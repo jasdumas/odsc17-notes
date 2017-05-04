@@ -61,10 +61,11 @@ prep, model development, collaboration, validation, deployment
   <details>
  <summary>Emoji Data Science Pictures</summary>
 
-![](brexit.jpg)
-![](election.jpg)
-![](emoji-word-cloud.jpg)
-![](tswift-kanye.jpg)
+    <img src="brexit.jpg">
+    <img src="election.jpg">
+    <img src="emoji-word-cloud.jpg">
+    <img src="tswift-kanye.jpg">
+
 </details>
 
 ---
