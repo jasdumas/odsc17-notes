@@ -57,6 +57,15 @@ prep, model development, collaboration, validation, deployment
   - Sentiment analysis on social media 
   - Time series analysis based on emojis
   - Data journalism with emojis
+  
+  <details>
+ <summary>Emoji Data Science Pictures</summary>
+
+![](brexit.jpg)
+![](election.jpg)
+![](emoji-word-cloud.jpg)
+![](tswift-kanye.jpg)
+</details>
 
 ---
 
