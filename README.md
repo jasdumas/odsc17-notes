@@ -58,9 +58,14 @@ prep, model development, collaboration, validation, deployment
   - Time series analysis based on emojis
   - Data journalism with emojis
 
-**Break & Speaker interview with [George](george@odsc.com)** :heavy_check_mark:
+---
 
-- Analyzing Evictions During the Housing Crisis (1:30 PM in Room 313)
+**Lunch Break & Speaker interview with [George](george@odsc.com)** :heavy_check_mark:
+
+---
+
+### Analyzing Evictions During the Housing Crisis (1:30 PM in Room 313)
+
 - Selling Flowers with Analytics (2:15 PM in Room 310)
 - Modern Approaches to Finance (3:00 PM in Room 311)
 - Anomaly Detection in Wireless Networks using Mobile Phone Data (4:15 PM in Room 301)
