@@ -59,16 +59,14 @@ prep, model development, collaboration, validation, deployment
   - Data journalism with emojis
   
   <details>
-  
- <summary>Emoji Data Science Pictures</summary>
-
-    <img src="https://github.com/jasdumas/odsc17-notes/blob/master/brexit.jpg">
+  <summary>Emoji Data Scicene Pictures (Click to expand)</summary>
+  <img src="https://github.com/jasdumas/odsc17-notes/blob/master/brexit.jpg">
     <img src="https://github.com/jasdumas/odsc17-notes/blob/master/election.jpg">
     <img src="https://github.com/jasdumas/odsc17-notes/blob/master/emoji-word-cloud.jpg">
     <img src="https://github.com/jasdumas/odsc17-notes/blob/master/tswift-kanye.jpg">
-
 </details>
-
+  
+  
 ---
 
 **Lunch Break & Speaker interview with [George](george@odsc.com)** :heavy_check_mark:
@@ -90,7 +88,15 @@ prep, model development, collaboration, validation, deployment
 
 ### Selling Flowers with Analytics (2:15 PM in Room 310)
 
-- Modern Approaches to Finance (3:00 PM in Room 311)
+### Modern Approaches to Finance (3:00 PM in Room 311)
+
+<details>
+  <summary>Slide deck pictures (Click to expand)</summary>
+  <img src="https://github.com/jasdumas/odsc17-notes/blob/master/burger-king.jpg">
+  <img src="https://github.com/jasdumas/odsc17-notes/blob/master/nlp-entity.jpg">
+  <img src="ts-power-spectrograph.jpg">
+</details>
+
 - Anomaly Detection in Wireless Networks using Mobile Phone Data (4:15 PM in Room 301)
 - Balancing Causal and Predictive Modeling at Wayfair (5:00 PM in Room 301)
 
