@@ -72,7 +72,10 @@ prep, model development, collaboration, validation, deployment
 - **Data Cleaning**: Fuzzy matching ~ distance between strings to get spelling differences together
 - **Data transformation**: transform latitude and longitude into corresponding census blocks with the census track API
 - **Data viz**: D3.js but mostly leaflet for ease in making choropleth maps
-- **Modeling**: Correlation analysis (`pandas` .cor function) for selecting a few variables
+- **Modeling**: Correlation analysis (`pandas` .cor function) for selecting a few variables; 
+- **Machine Learning**: Build a model for interpretable descriptive statistics (i.e. Logistic Regression) rather than predition; Random split for train/test to avoid geography bias in census blocks; Leverge RF & GBM for feature importance (similar to correlation matrix from previous step):
+   - GBM sklearn implementation: analyze purity gain at each split but doesnt explain which way it impacts the prediction
+   - Logistic regression gives insight to _direction_ of feature impact
 
 ### Selling Flowers with Analytics (2:15 PM in Room 310)
 
