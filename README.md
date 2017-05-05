@@ -92,12 +92,13 @@ prep, model development, collaboration, validation, deployment
 
 - Topics: NLP, Time Series, Deep Learning
 
-<details>
+  <details>
   <summary>Modern approaches to finance (Click to expand)</summary>
   <img src="https://github.com/jasdumas/odsc17-notes/blob/master/burger-king.jpg">
   <img src="https://github.com/jasdumas/odsc17-notes/blob/master/nlp-entity.jpg">
   <img src="ts-power-spectrograph.jpg">
 </details>
+
 
 
 - _Anomaly Detection in Wireless Networks using Mobile Phone Data (4:15 PM in Room 301)_
