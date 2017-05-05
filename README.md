@@ -111,14 +111,45 @@ prep, model development, collaboration, validation, deployment
 
 - Geospatial Voronoi Analysis (9:00 AM in Room 310)
 - Behind the scenes of training, managing and deploying machine learning models (9:00 AM in Room 313)
-- Telling a Quantitative Story (9:45 AM in Room Ballroom A)
+### Corporate Data Science (9:45 AM in Room Ballroom A)
 - Recommendation systems at Zillow Group (11:00 AM in Room 310)
 - Making Decisions Under Uncertainty Using Bayesian Inference and Stan (11:45 AM in Room 309)
 
 ### :beers: _My talk_: Open Government Data and Beer Analytics (12:30 PM in Room Ballroom A) | [Slides](https://jasdumas.github.io/talks/odsc-boston/odsc-open-gov-beer.html#(1))
 
 - Intro to D3 (1:30 PM in Room 302)
-- Interpretability and the Future of Machine Learning (2:15 PM in Room Ballroom A)
+
+### Interpretability and the Future of Machine Learning (2:15 PM in Room Ballroom A)
+
+- Blog: [shapeofdata.wordpress.com](https://shapeofdata.wordpress.com/)
+- Interpretability is idea alongside prediction, but how the prediction was developed 
+  - Interpretability is: Important, Difficult, adpating the data science community to using it as well
+- Formerly person-to-person reccomendation
+- Current reccomendation from algorithms - but how did they come up with the result?!
+- The furture of ML is not (all) automated: 
+  - Adversarial reccommenders (shopping)
+  - high stakes decisions (medical, legal or financila)
+- Linear models can be easier to explain - more complicated models get confusing to explain (RF, Neural Nets)
+- Mental models - ML models don't interact well 
+- `Interpretabilty layer = Mental model + ML models` to get a better model overall
+- **Human - Computer Bias**
+  - Humans: Context, Metacognition
+  - Computer: Scale, Reliability
+- **Human - Computer Differences** that makes modeling difficult!
+  - Human: rule-based, simple, causal, subconscious
+  - Computer: geometric, correlation-based, complex
+- Now a psychology problem mixed with ML models: user interaction studies which can be the only way to know what works
+- In practice, researhers use intuitive heuristics (i.e. sparcity) to draw interpretable models out which can be misleading
+- HCI: known, rule-based, systems, understand how the computer will react
+- Modeling Interpretability: complex
+- Data Viz: describes one prediction for making one decision, knowledge transfer
+- Use cases for interpretability: how will users benefit
+- resources: 
+  - ["The mythos of model Interpretability" - Zac Lipton](https://arxiv.org/pdf/1606.03490.pdf)
+  - ["Towards a rigerous science of interptable machine learning" - .doshi-velez, .kim](https://arxiv.org/pdf/1702.08608.pdf)
+  - ["Why should I trust you?" - .Ribero, et al.](https://arxiv.org/pdf/1602.04938.pdf)
+
+
 - Interactive Plotting with Matplotlib (3:00 PM in Room 311)
 - Rapid Prototyping Data Products using Shiny (4:15 PM in Room 310)
 - Applying Data Science Tools to Understand Web Traffic Data (5:00 PM in Room 310)
