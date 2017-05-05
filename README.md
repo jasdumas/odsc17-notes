@@ -16,9 +16,9 @@ Hynes Convention Center, Boston, MA
 
 ## Thursday
 
-### Sessions I want to attend: 
+### Sessions I want to attend (h3 title indicates attended): 
 
-- Keynote Address (9:30 AM in Room 302,304,306)
+- _Keynote Address (9:30 AM in Room 302,304,306)_
 
 ### Challenges and practical solutions in successful developing and delivery of data science applications (11:00 AM in Room 309) | [R-Brain](https://r-brain.io/en/)
 
@@ -59,7 +59,7 @@ prep, model development, collaboration, validation, deployment
   - Data journalism with emojis
   
   <details>
-  <summary>Emoji Data Scicene Pictures (Click to expand)</summary>
+  <summary>Emoji Data Science Pictures (Click to expand)</summary>
   <img src="https://github.com/jasdumas/odsc17-notes/blob/master/brexit.jpg">
     <img src="https://github.com/jasdumas/odsc17-notes/blob/master/election.jpg">
     <img src="https://github.com/jasdumas/odsc17-notes/blob/master/emoji-word-cloud.jpg">
@@ -86,19 +86,24 @@ prep, model development, collaboration, validation, deployment
    - GBM sklearn implementation: analyze purity gain at each split but doesnt explain which way it impacts the prediction
    - Logistic regression gives insight to _direction_ of feature impact
 
-### Selling Flowers with Analytics (2:15 PM in Room 310)
+- _Selling Flowers with Analytics (2:15 PM in Room 310)_
 
 ### Modern Approaches to Finance (3:00 PM in Room 311)
 
+- Topics: NLP, Time Series, Deep Learning
+
 <details>
-  <summary>Slide deck pictures (Click to expand)</summary>
+  <summary>Modern approaches to finance (Click to expand)</summary>
   <img src="https://github.com/jasdumas/odsc17-notes/blob/master/burger-king.jpg">
   <img src="https://github.com/jasdumas/odsc17-notes/blob/master/nlp-entity.jpg">
   <img src="ts-power-spectrograph.jpg">
 </details>
 
-- Anomaly Detection in Wireless Networks using Mobile Phone Data (4:15 PM in Room 301)
-- Balancing Causal and Predictive Modeling at Wayfair (5:00 PM in Room 301)
+
+- _Anomaly Detection in Wireless Networks using Mobile Phone Data (4:15 PM in Room 301)_
+- _Balancing Causal and Predictive Modeling at Wayfair (5:00 PM in Room 301)_
+
+---
 
 
 ## Friday
@@ -109,7 +114,7 @@ prep, model development, collaboration, validation, deployment
 - Recommendation systems at Zillow Group (11:00 AM in Room 310)
 - Making Decisions Under Uncertainty Using Bayesian Inference and Stan (11:45 AM in Room 309)
 
-### Open Government Data and Beer Analytics (12:30 PM in Room Ballroom A) | [Slides](https://jasdumas.github.io/talks/odsc-boston/odsc-open-gov-beer.html#(1))
+### :beers: _My talk_: Open Government Data and Beer Analytics (12:30 PM in Room Ballroom A) | [Slides](https://jasdumas.github.io/talks/odsc-boston/odsc-open-gov-beer.html#(1))
 
 - Intro to D3 (1:30 PM in Room 302)
 - Interpretability and the Future of Machine Learning (2:15 PM in Room Ballroom A)
