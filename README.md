@@ -16,10 +16,6 @@ Hynes Convention Center, Boston, MA
 
 ## Thursday
 
-### Sessions I want to attend (h3 title indicates attended): 
-
-- _Keynote Address (9:30 AM in Room 302,304,306)_
-
 ### Challenges and practical solutions in successful developing and delivery of data science applications (11:00 AM in Room 309) | [R-Brain](https://r-brain.io/en/)
 
 - **Five steps in building a model for data analytics from**:
@@ -45,9 +41,6 @@ prep, model development, collaboration, validation, deployment
 - **Benefits of using cloud**: meet increasing storage demands, faster time-to-market, cost savings, improved disaster recovery plans.
 
 - **Migrating to cloud using containers**: development and environment tools :arrow_forward: building and maintaining images :arrow_forward: installation of system libraries in the containers :arrow_forward: container orchestration (devOps role) :arrow_forward: deployment.
-
-
-- _Precision agriculture: Predicting outcomes for farmers using machine learning to help feed the world (11:45 AM in Room 301)_
 
 ### An introduction to emoji data science (12:30 PM in Room 310) | [Prismoji](https://prismoji.com/)
 
@@ -86,7 +79,6 @@ prep, model development, collaboration, validation, deployment
    - GBM sklearn implementation: analyze purity gain at each split but doesnt explain which way it impacts the prediction
    - Logistic regression gives insight to _direction_ of feature impact
 
-- _Selling Flowers with Analytics (2:15 PM in Room 310)_
 
 ### Modern Approaches to Finance (3:00 PM in Room 311)
 
@@ -100,24 +92,17 @@ prep, model development, collaboration, validation, deployment
 </details>
 
 
-
-- _Anomaly Detection in Wireless Networks using Mobile Phone Data (4:15 PM in Room 301)_
-- _Balancing Causal and Predictive Modeling at Wayfair (5:00 PM in Room 301)_
-
 ---
 
 
 ## Friday
 
-- Geospatial Voronoi Analysis (9:00 AM in Room 310)
-- Behind the scenes of training, managing and deploying machine learning models (9:00 AM in Room 313)
 ### Corporate Data Science (9:45 AM in Room Ballroom A)
-- Recommendation systems at Zillow Group (11:00 AM in Room 310)
-- Making Decisions Under Uncertainty Using Bayesian Inference and Stan (11:45 AM in Room 309)
+
+- https://twitter.com/jasdumas/status/860499500032561152
 
 ### :beers: _My talk_: Open Government Data and Beer Analytics (12:30 PM in Room Ballroom A) | [Slides](https://jasdumas.github.io/talks/odsc-boston/odsc-open-gov-beer.html#(1))
 
-- Intro to D3 (1:30 PM in Room 302)
 
 ### Interpretability and the Future of Machine Learning (2:15 PM in Room Ballroom A)
 
@@ -149,7 +134,6 @@ prep, model development, collaboration, validation, deployment
   - ["Towards a rigerous science of interptable machine learning" - .doshi-velez, .kim](https://arxiv.org/pdf/1702.08608.pdf)
   - ["Why should I trust you?" - .Ribero, et al.](https://arxiv.org/pdf/1602.04938.pdf)
 
+### Rapid Prototyping Data Products using Shiny (4:15 PM in Room 310)
 
-- Interactive Plotting with Matplotlib (3:00 PM in Room 311)
-- Rapid Prototyping Data Products using Shiny (4:15 PM in Room 310)
-- Applying Data Science Tools to Understand Web Traffic Data (5:00 PM in Room 310)
+- https://twitter.com/jasdumas/status/860590109170814977
