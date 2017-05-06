@@ -134,6 +134,6 @@ prep, model development, collaboration, validation, deployment
   - ["Towards a rigerous science of interptable machine learning" - .doshi-velez, .kim](https://arxiv.org/pdf/1702.08608.pdf)
   - ["Why should I trust you?" - .Ribero, et al.](https://arxiv.org/pdf/1602.04938.pdf)
 
-### Rapid Prototyping Data Products using Shiny (4:15 PM in Room 310)
+### Rapid Prototyping Data Products using Shiny (4:15 PM in Room 310) | [TCB Analytics](http://tcbanalytics.com/)
 
 - https://twitter.com/jasdumas/status/860590109170814977
